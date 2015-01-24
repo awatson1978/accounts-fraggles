@@ -16,7 +16,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Boober',
         role: 'Fraggle',
-        avatar: '/avatars/Boober.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/Boober.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -28,7 +28,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Doozer',
         role: 'Doozer',
-        avatar: '/avatars/Doozer.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/Doozer.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -40,7 +40,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Gobo',
         role: 'Fraggle',
-        avatar: '/avatars/Gobo.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/Gobo.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -52,7 +52,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Red',
         role: 'Fraggle',
-        avatar: '/avatars/Red.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/Red.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -64,7 +64,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Uncle Traveling Matt',
         role: 'Fraggle',
-        avatar: '/avatars/UncleTravelingMatt.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/UncleTravelingMatt.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -76,7 +76,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Wembley',
         role: 'Fraggle',
-        avatar: '/avatars/Wembley.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/Wembley.jpg'
       }
     });
     console.info('Account created: ' + userId);
@@ -88,7 +88,7 @@ Meteor.startup(function () {
       profile: {
         name: 'Mokey',
         role: 'Fraggle',
-        avatar: '/avatars/Mokey.jpg'
+        avatar: '/packages/awatson1978_accounts-fraggles/fraggles/Mokey.jpg'
       }
     });
     console.info('Account created: ' + userId);
